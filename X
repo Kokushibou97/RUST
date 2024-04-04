@@ -1,0 +1,8 @@
+In rust X is the name of the variable which stores the value.
+
+The rust values are immutables, whcih means that they cannot be changed.
+
+We can change the value with mut.
+
+We use let before declaring variables.
+The logic is the same for Java.
